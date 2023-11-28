@@ -1,0 +1,6 @@
+jpegio
+pillow
+pandas
+numpy
+streamlit
+easygui
